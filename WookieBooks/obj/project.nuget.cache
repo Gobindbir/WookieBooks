@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eJfCjUAdK+g3KU4JmwgoAAG/4OnPdNb4yDhG/CQvHL7Y3YuzoR/PT7mSOekCPgy5SBiJXxjE79yMUi7KTLQFhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gobindbir.singh\\source\\repos\\WookieBooks\\WookieBooks\\WookieBooks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gobindbir.singh\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\gobindbir.singh\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\gobindbir.singh\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\gobindbir.singh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
